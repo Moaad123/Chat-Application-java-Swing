@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Application_chat/src"/>
+	<classpathentry kind="src" path="Server1/src"/>
+	<classpathentry kind="lib" path="Application_chat/dist/Chat_application.jar"/>
+	<classpathentry kind="lib" path="Application_chat/dist/lib/mysql-connector-java-8.0.23.jar"/>
+	<classpathentry kind="lib" path="Application_chat/dist/lib/Server1.jar"/>
+	<classpathentry kind="lib" path="Server1/dist/lib/mysql-connector-java-8.0.23.jar"/>
+	<classpathentry kind="lib" path="Server1/dist/Server1.jar"/>
+	<classpathentry kind="output" path="Application_chat/build/classes"/>
+</classpath>
